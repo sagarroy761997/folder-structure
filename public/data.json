@@ -1,0 +1,20 @@
+{
+    "name": "computer",
+    "type": "folders",
+    "index": 0,
+    "children": {
+      "name": "docs",
+      "type": "folders",
+      "index": 1,
+      "children": {
+        "name": "images",
+        "type": "folders",
+        "index": 2,
+        "children": {
+          "name": "hello",
+          "type": "files",
+          "index": 3
+        }
+      }
+    }
+  }
